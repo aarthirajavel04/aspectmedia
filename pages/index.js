@@ -9,7 +9,7 @@ export default function Home() {
         <title>Aspect Media</title>
         <meta name="description" content="Website coming soon" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.png" />
       </Head>
       <div className={styles.container}>
         {/* First Half - Sky Blue */}
